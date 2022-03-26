@@ -2,7 +2,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 /* styles of index page list*/
-#index-list {
+.index-list {
   background-color: #f4a3a3;
   text-align: center;
   color: white;
